@@ -1,6 +1,6 @@
 {
     "captcha_key": "", 
-    "invite": "",
+    "invite": "88888",
     "threads": 69,
     "proxy_scraper": "y",
 
@@ -8,5 +8,5 @@
 
     "join_voice": "n",
     "channel_id": "",
-    "server_id": ""
+    "server_id": "1063944926364184726"
 }
